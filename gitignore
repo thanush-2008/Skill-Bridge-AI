@@ -1,0 +1,14 @@
+# Secrets and local data: never commit these
+.env
+skillbridge.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
