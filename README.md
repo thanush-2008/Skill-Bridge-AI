@@ -60,7 +60,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open http://127.0.0.1:5000, create an account, paste a resume and click **Find my matches**.
+Open https://thanush2k8.pythonanywhere.com/ , create an account, paste a resume and click **Find my matches**.
 
 ## Configuration
 
@@ -187,15 +187,3 @@ Note: SQLite needs a host with a persistent disk. Serverless platforms such as N
 - Google or LinkedIn sign-in
 - PostgreSQL for scale
 - A dashboard for college placement cells
-
-## Team
-
-Add your team members here.
-
-| Name | Role |
-| --- | --- |
-| Your name | Developer |
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
